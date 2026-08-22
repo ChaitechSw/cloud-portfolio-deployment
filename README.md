@@ -6,6 +6,13 @@
 My personal portfolio, deployed on AWS with a free custom domain and HTTPS.
 
 **Live site:** https://chaitanyat.is-a.dev
+## What this project demonstrates
+
+- Deploying a static site on AWS using S3, CloudFront, and ACM
+- Securing an S3 origin with Origin Access Control instead of a public bucket
+- DNS validation and CNAME management across two independent DNS authorities (AWS + a third-party registry)
+- Debugging real infrastructure errors (403s, cert mismatches, DNS propagation) rather than following a guide end-to-end
+- Cost-conscious cloud usage — free tier, monitored with billing alarms
 
 ## Architecture
 
