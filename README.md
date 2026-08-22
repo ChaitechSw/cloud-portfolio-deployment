@@ -1,3 +1,6 @@
+![AWS](https://img.shields.io/badge/AWS-S3%20%7C%20CloudFront%20%7C%20ACM-orange)
+![HTTPS](https://img.shields.io/badge/HTTPS-Enabled-brightgreen)
+![Cost](https://img.shields.io/badge/Cost-%240%2Fmonth-blue)
 # Portfolio Site — AWS Deployment
 
 My personal portfolio, deployed on AWS with a free custom domain and HTTPS.
